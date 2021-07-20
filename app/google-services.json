@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29084976465",
+    "project_id": "the-time-table-29c09",
+    "storage_bucket": "the-time-table-29c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29084976465:android:3b55340a3ed57cd0683f70",
+        "android_client_info": {
+          "package_name": "com.example.ttsgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29084976465-psg2ib891fo8ueghr0i5sutvt91kefd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ttsgu",
+            "certificate_hash": "9b4f56c49597da9400016c4d552a780713a975f2"
+          }
+        },
+        {
+          "client_id": "29084976465-i012nh0o8mt0p6hl5fvlik8uak7ogik3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgILuyZXlQ9ytKE-V5LeWs2al0qf0nF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29084976465-i012nh0o8mt0p6hl5fvlik8uak7ogik3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

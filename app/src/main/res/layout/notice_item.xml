@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="30dp"
+
+    android:layout_margin="20dp"
+    app:cardElevation="20dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#88ECD59D"
+        tools:ignore="MissingClass">
+
+        <TextView
+            android:id="@+id/noticetitle"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:text="Tejas"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            style="@style/Animation.Design.BottomSheetDialog"/>
+
+        <ImageView
+            android:id="@+id/noticeImg"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="20dp"
+            tools:ignore="MissingClass" />
+
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
