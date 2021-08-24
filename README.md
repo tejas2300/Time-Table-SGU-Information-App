@@ -30,7 +30,7 @@
 
 
 ## 1st section - Time Table  
-<img src="https://user-images.githubusercontent.com/86561203/126782461-5be5b672-b7e2-4440-b416-5817cc59fa29.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130544224-29fb240f-3d5b-4cf9-90c0-f2cef46a3d85.jpg" width="30%" height="30%"/>
 
 
 
@@ -46,7 +46,7 @@
 
 
 ## 2nd section - Faculty  
-<img src="https://user-images.githubusercontent.com/86561203/126782547-cb629013-89ee-4ff1-850a-ba32f6b92e8c.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130544234-91697e6b-fd2f-474b-96d2-aef64802e9ee.jpg" width="30%" height="30%"/>
 
 
 
@@ -59,7 +59,7 @@
 
 
 ## 3rd section - Notice  
-<img src="https://user-images.githubusercontent.com/86561203/126782598-e8831c7d-aa53-4a0b-a1ba-0d5c94dbd3a0.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130544214-072aad04-a701-4234-9a15-2ba81cc3c027.jpg" width="30%" height="30%"/>
 
 
 ### Here we can see notice
