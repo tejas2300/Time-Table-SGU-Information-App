@@ -35,7 +35,7 @@
 
 
 ### Here we have list of week days, so that we can see our time table week wise.  
-<img src="https://user-images.githubusercontent.com/86561203/126782494-2e00a6ef-cf5b-4572-92fa-015d2d07c6f9.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130543055-ea157911-b938-450b-8a93-9ccadf5fe6f2.jpg" width="30%" height="30%"/>
 
 
 
