@@ -11,14 +11,14 @@
 
 
 ### We have 'log in' page. 
-<img src="https://user-images.githubusercontent.com/66515186/130542808-143b490b-37d5-4a45-83f4-8137eeb5a515.jpg" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/66515186/130543610-9d319412-83e4-45e4-8c4f-d7e27f896a84.jpg" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130542808-143b490b-37d5-4a45-83f4-8137eeb5a515.jpg" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/66515186/130543052-b69c2d9f-e387-4721-abea-7f537f69576c.jpg" width="30%" height="30%"/>
 
 
 ### We can also create new account by clicking 'sign up'.  
 
 
 ### This is sign up page.  
-<img src="https://user-images.githubusercontent.com/86561203/126781359-443274e2-8895-45ce-9790-c93a475ef00f.png" width="30%" height="30%"/><img src="https://user-images.githubusercontent.com/86561203/126781364-3a90254a-9611-434e-aae5-1c4bcda7d117.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130543048-b63d8204-867c-4656-b1fa-6ef392d65f4e.jpg" width="30%" height="30%"/><img src="https://user-images.githubusercontent.com/86561203/126781364-3a90254a-9611-434e-aae5-1c4bcda7d117.png" width="30%" height="30%"/>
 
 
 ### Our app is having mainly 3 sections
