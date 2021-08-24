@@ -41,7 +41,7 @@
 
 ### This is time table of Monday
 #### We are having Time, Subject, Teacher name and location in this section.  
-<img src="https://user-images.githubusercontent.com/86561203/126782524-105d55a2-c9e9-4e7a-b135-b03a0376f56a.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130543056-39fcb115-5882-4ac8-b723-5acc7230cc7b.jpg" width="30%" height="30%"/>
 
 
 
