@@ -11,7 +11,7 @@
 
 
 ### We have 'log in' page. 
-<img src="https://user-images.githubusercontent.com/66515186/130542808-143b490b-37d5-4a45-83f4-8137eeb5a515.jpg" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/86561203/126781312-d49ebab7-fb4b-4a50-8460-e29b6de4812d.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130542808-143b490b-37d5-4a45-83f4-8137eeb5a515.jpg" width="30%" height="30%"/> <img src="https://user-images.githubusercontent.com/66515186/130543610-9d319412-83e4-45e4-8c4f-d7e27f896a84.jpg" width="30%" height="30%"/>
 
 
 ### We can also create new account by clicking 'sign up'.  
