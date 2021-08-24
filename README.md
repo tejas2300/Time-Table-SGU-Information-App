@@ -18,7 +18,7 @@
 
 
 ### This is sign up page.  
-<img src="https://user-images.githubusercontent.com/66515186/130543048-b63d8204-867c-4656-b1fa-6ef392d65f4e.jpg" width="30%" height="30%"/><img src="https://user-images.githubusercontent.com/86561203/126781364-3a90254a-9611-434e-aae5-1c4bcda7d117.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130543048-b63d8204-867c-4656-b1fa-6ef392d65f4e.jpg" width="30%" height="30%"/><img src="https://user-images.githubusercontent.com/66515186/130543052-b69c2d9f-e387-4721-abea-7f537f69576c.jpg" width="30%" height="30%"/>
 
 
 ### Our app is having mainly 3 sections
