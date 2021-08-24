@@ -26,7 +26,7 @@
 1) Time table  
 2) Faculty  
 3) Notice    
-<img src="https://user-images.githubusercontent.com/86561203/126781427-354c564f-c794-4bfb-a081-8ff96f7f5249.png" width="30%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/66515186/130543053-f1e34323-73e4-4fe2-90c4-fa82bdedcd1d.jpg" width="30%" height="30%"/>
 
 
 ## 1st section - Time Table  
